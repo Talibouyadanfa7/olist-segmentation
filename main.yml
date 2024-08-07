@@ -42,7 +42,6 @@ jobs:
 
     - name: Execute custom script
       run: |
+
         chmod +x ./run_olist_segmentation.sh
         ./run_olist_segmentation.sh
-
-

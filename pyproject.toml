@@ -1,5 +1,5 @@
 [project]
-name = "house_price"
+name = "olist-segmentation"
 
 ignore = [
 "E501", # Line too long
